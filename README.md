@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ytugba
-- 👀 I’m interested in Unity3D, C#, and Python related project developments.
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m interested in Unity3D, C#, and Python related stuff. 
+- I often try to find new hobbies tho.
 
 My best friends:
   - Github Repos
